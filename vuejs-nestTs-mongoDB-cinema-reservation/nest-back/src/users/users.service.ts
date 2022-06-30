@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
-import { Users } from './Users.model';
+import { Users } from './users.model';
 import { Model } from 'mongoose';
 const bodyparser = require('body-parser');
 const bcrypt = require('bcrypt');

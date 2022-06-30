@@ -1,4 +1,6 @@
-## open folder "vue-front " in terminal and run the following
+- IMPORTANT
+
+## open folder "vue-front " (vue-front) in terminal and run the following
 
 npm install
 
@@ -8,11 +10,13 @@ npm install axios
 
 npm run serve
 
-## In Terminal open this folder in terminal "nest-back"and run the following commands dependcencies.
+\*IMPORTANT
+
+## In Terminal open this folder in terminal "nest-back" or (cd nest-back)and run the following commands dependcencies.
 
 npm install
 
-npm i -g @nestjs/cli
+sudo npm i -g @nestjs/cli
 
 npm install axios
 

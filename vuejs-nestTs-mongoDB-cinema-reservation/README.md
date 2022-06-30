@@ -2,6 +2,8 @@
 
 npm install
 
+npm install vue
+
 npm install axios
 
 ## and finally to run

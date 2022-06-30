@@ -94,8 +94,6 @@
                 <v-card-title>title {{ like.title }}</v-card-title>
                 <br />
                 <v-card-text>
-                  Small plates, salads & sandwiches - an intimate setting with
-                  12 indoor seats plus patio seating.
                   {{ like.description }}
                 </v-card-text>
                 <h2 justify="start">$ price {{ like.price }}</h2>
@@ -122,10 +120,6 @@
                     <div class="grey--text ms-4">4.5 (413)</div>
                   </v-row>
                 </v-card-text>
-
-                <v-card-actions>
-                  <v-btn color="deep-purple" text>Book ticket</v-btn>
-                </v-card-actions>
               </v-card>
             </template>
           </v-col>
