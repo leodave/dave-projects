@@ -12,7 +12,7 @@ npm run serve
 
 npm install
 
-npm i -g @nestjs/
+npm i -g @nestjs/cli
 
 npm install axios
 
